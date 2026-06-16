@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.jpg" alt="Vasantha Kumar A — Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Vasanthakumaran11/Vasanthakumaran11/main/assets/banner.jpg" alt="Vasantha Kumar A — Banner" width="100%"/>
 </div>
 
 <div align="center">
