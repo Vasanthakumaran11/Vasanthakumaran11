@@ -120,24 +120,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Vasanthakumaran11&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F2FE&icon_color=8a2be2&text_color=c9d1d9&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasanthakumaran11&hide_border=true&background=0d1117&ring=8a2be2&fire=ff6f00&currStreakLabel=00F2FE&currStreakVal=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthakumaran11&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F2FE&icon_color=8a2be2&text_color=c9d1d9" width="100%" alt="Top Languages" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-profile-trophy.vercel.app/?username=Vasanthakumaran11&theme=radical&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" width="100%" alt="GitHub Profile Trophies" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasanthakumaran11&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F2FE&icon_color=8a2be2&text_color=c9d1d9" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vasanthakumaran11&hide_border=true&background=0d1117&ring=8a2be2&fire=ff6f00&currStreakLabel=00F2FE&currStreakVal=ffffff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="49%" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasanthakumaran11&layout=compact&hide_border=true&bg_color=0d1117&title_color=00F2FE&icon_color=8a2be2&text_color=c9d1d9" width="49%" alt="Top Languages" />
 </div>
 
 ---
