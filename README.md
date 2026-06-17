@@ -26,9 +26,7 @@
   </a>
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=Vasanthakumaran11&color=8a2be2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+
 
 <br/>
 
