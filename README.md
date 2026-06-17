@@ -34,11 +34,11 @@
 
 ## 🧾 Professional Profile
 
-> Full Stack Developer and Machine Learning Practitioner passionate about engineering data-driven solutions. Experienced in developing scalable web applications using the Python-React-FastAPI stack and structuring databases with MongoDB. Specialized in integrating predictive models, building robust APIs, and creating seamless user experiences. Focused on translating analytical insights into reliable, production-ready software systems.
+> Full Stack Developer and Machine Learning and Deep Learning Practitioner passionate about engineering data-driven solutions. Experienced in developing scalable web applications using the Python-React-FastAPI stack and structuring databases with MongoDB. Specialized in integrating predictive models, building robust APIs, and creating seamless user experiences. Focused on translating analytical insights into reliable, production-ready software systems.
 
 ### ⚡ Highlights
 - 🎓 **Education:** B.Tech in Artificial Intelligence & Data Science at Kongu Engineering College (CGPA: 8.66)
-- 🧠 **Focus Areas:** Full Stack Engineering · Machine Learning Pipelines · Backend System Design
+- 🧠 **Focus Areas:** Full Stack Engineering · Machine Learning Pipelines & Deep Learning Models · Backend System Design
 - 🛠️ **Primary Stack:** Python · React · FastAPI · MongoDB · PyTorch
 - 📍 **Location:** Tamil Nadu, India
 
