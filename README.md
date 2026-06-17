@@ -46,9 +46,30 @@
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,postgres,mysql,react,tailwind,html,css,fastapi,nodejs,express,mongodb,supabase,pytorch,keras,sklearn,pandas,numpy,git,github,vscode,jupyter&perline=12" alt="Tech Arsenal" />
-</div>
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,java,c" alt="Programming Languages" />
+</p>
+
+### 🌐 Web & Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" alt="Web & Frontend" />
+</p>
+
+### ⚙️ Backend, Frameworks & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,supabase,postgres,mysql" alt="Backend, Frameworks & Databases" />
+</p>
+
+### 🧠 Data Science & Deep Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,keras,sklearn,pandas,numpy" alt="Data Science & Deep Learning" />
+</p>
+
+### 🔧 Tooling & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Tooling & Platforms" />
+</p>
 
 ---
 
