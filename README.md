@@ -61,7 +61,7 @@
 
 ### 🧠 Data Science & Deep Learning
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,keras,sklearn,pandas,numpy" alt="Data Science & Deep Learning" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn" alt="Data Science & Deep Learning" />
 </p>
 
 ### 🔧 Tooling & Platforms
